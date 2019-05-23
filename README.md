@@ -1,5 +1,5 @@
 # LA Color Picker
-This is a color picker pallet for inputs.
+This is a color picker palette for inputs.
 It's pure JS and CSS so you probably will be able to use in any kind of project.
 
 ## Usage

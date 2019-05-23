@@ -4,8 +4,14 @@ It's pure JS and CSS so you probably will be able to use in any kind of project.
 
 ## Usage
 Get the CSS and JS files into your project:
-link to js and js min
-link to css and css min
+ - [CSS](https://raw.githubusercontent.com/LucasAndrad/la-color-picker/master/la_color_picker.css)
+ - [JS](https://raw.githubusercontent.com/LucasAndrad/la-color-picker/master/la_color_picker.js)
+
+min versions
+
+ - [min CSS](https://raw.githubusercontent.com/LucasAndrad/la-color-picker/master/la_color_picker.min.css)
+ - [min JS](https://raw.githubusercontent.com/LucasAndrad/la-color-picker/master/la_color_picker.min.js)
+
 
  - Add `id=colorPicker` to your input and this div above: `<div class="pallet" id="colorPallet"></div>`
  - Your input should be something like this:
@@ -16,6 +22,8 @@ link to css and css min
 ```
 
 ### [Live example](https://codepen.io/lucasandrade/pen/zQRRGK)
+
+![Gif example](https://media.giphy.com/media/Kb5l326c4XRTDtchvp/giphy.gif)
 
 ---
 

@@ -1,16 +1,10 @@
-.inp {
-  border: 1px solid #949494;
-  border-radius: 3px;
-  padding: 10px;
-  font-size: 110%;
-}
-.color-pallet {
+.color-palette {
   height: 100px;
   width: 100px;
   background: red;
   display: none;
 }
-.pallet {
+.palette {
   margin-top: 5px;
   width: 270px;
   height: 220px;
